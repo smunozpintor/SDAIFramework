@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre1.8.0_212"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/EclipseLink_2.5.2"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Jsf_2.2"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/PostgreSQLDriver"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Primefaces_8.0"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Spring_4.0.1"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
